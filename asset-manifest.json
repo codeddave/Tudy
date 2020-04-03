@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Tudy/static/css/main.3e8a792f.chunk.css",
+    "main.js": "/Tudy/static/js/main.2af00cee.chunk.js",
+    "main.js.map": "/Tudy/static/js/main.2af00cee.chunk.js.map",
+    "runtime-main.js": "/Tudy/static/js/runtime-main.e56d8035.js",
+    "runtime-main.js.map": "/Tudy/static/js/runtime-main.e56d8035.js.map",
+    "static/css/2.de424728.chunk.css": "/Tudy/static/css/2.de424728.chunk.css",
+    "static/js/2.dcdbb028.chunk.js": "/Tudy/static/js/2.dcdbb028.chunk.js",
+    "static/js/2.dcdbb028.chunk.js.map": "/Tudy/static/js/2.dcdbb028.chunk.js.map",
+    "index.html": "/Tudy/index.html",
+    "precache-manifest.6d71c889f7237a150935936c1f795fd0.js": "/Tudy/precache-manifest.6d71c889f7237a150935936c1f795fd0.js",
+    "service-worker.js": "/Tudy/service-worker.js",
+    "static/css/2.de424728.chunk.css.map": "/Tudy/static/css/2.de424728.chunk.css.map",
+    "static/css/main.3e8a792f.chunk.css.map": "/Tudy/static/css/main.3e8a792f.chunk.css.map",
+    "static/js/2.dcdbb028.chunk.js.LICENSE.txt": "/Tudy/static/js/2.dcdbb028.chunk.js.LICENSE.txt",
+    "static/media/personal.png": "/Tudy/static/media/personal.4948a741.png",
+    "static/media/sign.JPG": "/Tudy/static/media/sign.e9c1cc96.JPG"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e56d8035.js",
+    "static/css/2.de424728.chunk.css",
+    "static/js/2.dcdbb028.chunk.js",
+    "static/css/main.3e8a792f.chunk.css",
+    "static/js/main.2af00cee.chunk.js"
+  ]
+}
